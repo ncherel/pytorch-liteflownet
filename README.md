@@ -1,3 +1,8 @@
+# Fork differences
+
+This is a fork of pytorch-liteflownet that supports Pytorch 1.1.0.
+Don't try to use it with recent Pytorch version as you may not get the right results due to API changes.
+
 # pytorch-liteflownet
 This is a personal reimplementation of LiteFlowNet [1] using PyTorch. Should you be making use of this work, please cite the paper accordingly. Also, make sure to adhere to the <a href="https://github.com/twhui/LiteFlowNet#license-and-citation">licensing terms</a> of the authors. Should you be making use of this particular implementation, please acknowledge it appropriately [2].
 
